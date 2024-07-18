@@ -6,6 +6,7 @@ license = "MIT OR Apache-2.0"
 description = "A crate to generate and display a configurable word search grid"
 repository = "https://github.com/ambrosia13/word_search"
 readme = "README.md"
+keywords = ["words", "puzzles", "random"]
 
 [dependencies]
 array2d = "0.3.2"
