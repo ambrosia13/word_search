@@ -7,6 +7,7 @@ description = "A crate to generate and display a configurable word search grid"
 repository = "https://github.com/ambrosia13/word_search"
 readme = "README.md"
 keywords = ["words", "puzzles", "random"]
+categories = ["game-development"]
 
 [dependencies]
 array2d = "0.3.2"
