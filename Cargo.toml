@@ -1,0 +1,10 @@
+[package]
+name = "word_search"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A crate to generate and display a configurable word search grid"
+
+[dependencies]
+array2d = "0.3.2"
+rand = "0.8.5"
